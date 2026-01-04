@@ -1,5 +1,4 @@
-# Unit1
-## Sequence Objects
+# Sequence Objects
 ```python
 from Bio.Seq import Seq
 ```
