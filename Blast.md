@@ -1,4 +1,4 @@
-# Blast
+# BLAST
 ```python
 from Bio.Blast import NCBIWWW
 ```
