@@ -1,7 +1,6 @@
+# Advanced_Python_protfolio
 
-#Advanced_Python_protfolio
-
-##Sequence_Objects
+## Sequence_Objects
 ```python
 from Bio.Seq import Seq
 ```
@@ -840,7 +839,7 @@ new_seq
 
 ```
 
-#Sequence_Annotations
+# Sequence_Annotations
 ```python
 from Bio.SeqRecord import SeqRecord
 ```
@@ -1593,7 +1592,7 @@ sub_recordGB.description = 'Yersinia pestis biovar Microtus str. 91001 plasmid p
 ```python
 
 ```
-#Sequence_Input_Ouput
+# Sequence_Input_Ouput
 ```python
 from Bio import SeqIO
 ```
@@ -4464,7 +4463,7 @@ aligner.score(target, query, strand = "+")
 
     3.3
 
-#Blast
+# Blast
 ```python
 from Bio.Blast import NCBIWWW
 ```
