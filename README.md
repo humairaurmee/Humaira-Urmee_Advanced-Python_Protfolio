@@ -3027,7 +3027,7 @@ SeqIO.write(records_without_filter, "rev_comp_withoutfilter.fasta", "fasta")
 ```python
 
 ```
-#Multiple_Sequence_Alignment
+# Multiple_Sequence_Alignment
 ```python
 from Bio import AlignIO
 ```
